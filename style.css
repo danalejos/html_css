@@ -1,0 +1,47 @@
+/*
+h1{
+    color: mediumvioletred;
+}
+
+h4{
+    background-color: blueviolet;
+      }
+
+      section{background-color: cadetblue
+
+}
+     section div{
+        width: 500px;
+        height: 200px;
+border: solid 2px rgb(40, 0, 78);
+margin: 40px 60px 20px 50px;
+overflow: auto;
+padding: 30px;
+}
+
+  .uno{
+    background-color: darkseagreen;
+  }
+.dos{
+    background-color: aqua;
+}
+*/
+
+.contenedor{
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.contenedor img{
+    width: 100%;
+}
+.contenedor h1:hover{
+    background-color:coral;
+}
+    .contenedor img:hover{
+        transform: scale(1.5,1.5);
+        transition: 2s;
+    }
+
+
+
